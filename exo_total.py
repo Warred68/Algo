@@ -88,3 +88,10 @@ for i in range (0, len(lst)):
 #2-7
 for i in range(1,15,3):
     print(i)
+
+
+#2-8
+for i in range(1,10):
+    print(i)
+    if i == 5:
+        break
