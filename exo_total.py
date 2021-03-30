@@ -101,3 +101,10 @@ for i in range(1,11):
     if i == 5:
         continue
     print(i)
+
+#2-10
+for i in range(-3,4):
+    try:
+        print(sin(i)/i)
+    except:
+        print('Fonctionne ap')
