@@ -84,3 +84,7 @@ for i in range (0,len(mot)):
 
 for i in range (0, len(lst)):
     print(lst[i])
+
+#2-7
+for i in range(1,15,3):
+    print(i)
